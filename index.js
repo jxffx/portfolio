@@ -1,4 +1,4 @@
-mport;
+import;
 React;
 from;
 './react';
